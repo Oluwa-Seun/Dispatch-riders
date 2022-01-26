@@ -1,0 +1,35 @@
+{
+    "dispatcher-rider": [{
+            "state": "kaduna",
+            "company name": "Oya Now",
+            "comapny number": "07063332074, 07034970740",
+            "web": "www.oyanow.com",
+            "description": "Oya now is a well structured logistic company in kaduna that works hand in hand with delicia fast food for food delivery.",
+            "addresses": [{
+                "addressid": "0",
+                "number": "73",
+                "street": "oshomole street kaduna",
+                "postcode": "800264",
+                "country": "Nigeria"
+            }]
+
+        },
+
+        {
+            "state": "kaduna",
+            "company name": "Oya Now",
+            "comapny number": "07063332074, 07034970740",
+            "web": "www.oyanow.com",
+            "description": "Oya now is a well structured logistic company in kaduna that works hand in hand with delicia fast food for food delivery.",
+            "addresses": [{
+                "addressid": "0",
+                "number": "73",
+                "street": "oshomole street kaduna",
+                "postcode": "800264",
+                "country": "Nigeria"
+            }]
+        }
+
+
+    ]
+}
