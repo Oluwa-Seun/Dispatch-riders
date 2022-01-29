@@ -17,19 +17,33 @@
 
         {
             "state": "kaduna",
-            "company name": "Oya Now",
+            "company name": "GIG Logistic",
             "comapny number": "07063332074, 07034970740",
-            "web": "www.oyanow.com",
-            "description": "Oya now is a well structured logistic company in kaduna that works hand in hand with delicia fast food for food delivery.",
+            "web": "www.gig.com",
+            "description": "Good is good logistic is a well structured logistic company in kaduna that works hand in hand with delicia fast food for food delivery.",
             "addresses": [{
-                "addressid": "0",
-                "number": "73",
-                "street": "oshomole street kaduna",
+                "addressid": "1",
+                "number": "34",
+                "street": "lagos street kaduna",
+                "postcode": "800264",
+                "country": "Nigeria"
+            }]
+        },
+
+        {
+            "state": "kaduna",
+            "company name": "Dk Logistic",
+            "comapny number": "07063332074, 07034970740",
+            "web": "www.dk.com",
+            "description": "Dk is good logistic is a well structured logistic company in kaduna that works hand in hand with delicia fast food for food delivery.",
+            "addresses": [{
+                "addressid": "1",
+                "number": "34",
+                "street": "kano street kaduna",
                 "postcode": "800264",
                 "country": "Nigeria"
             }]
         }
-
 
     ]
 }
