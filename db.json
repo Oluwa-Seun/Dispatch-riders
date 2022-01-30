@@ -1,14 +1,15 @@
 {
     "dispatcher-rider": [{
             "state": "kaduna",
+            "logo": "",
             "company name": "Oya Now",
-            "comapny number": "07063332074, 07034970740",
+            "comapny number": "📲 +234 906 254 7779",
             "web": "www.oyanow.com",
-            "description": "Oya now is a well structured logistic company in kaduna that works hand in hand with delicia fast food for food delivery.",
+            "description": "OyaNow is Nigeria's leading one-step solution for all your deliveries and professional and needs.",
             "addresses": [{
                 "addressid": "0",
-                "number": "73",
-                "street": "oshomole street kaduna",
+                "plot": "288",
+                "street": "IEC Cresecent, behind ever green mall, Durumi, Abuja - FCT",
                 "postcode": "800264",
                 "country": "Nigeria"
             }]
@@ -17,10 +18,11 @@
 
         {
             "state": "kaduna",
-            "company name": "GIG Logistic",
-            "comapny number": "07063332074, 07034970740",
+            "logo": "",
+            "company name": "Zerosix",
+            "comapny number": "📲 08099599811, 07062467475",
             "web": "www.gig.com",
-            "description": "Good is good logistic is a well structured logistic company in kaduna that works hand in hand with delicia fast food for food delivery.",
+            "description": "You have errands to run within kaduna? Let Zerosix logistics take the stress off your shoulder 😁, Swift, Reliable and Affordable.",
             "addresses": [{
                 "addressid": "1",
                 "number": "34",
@@ -32,6 +34,7 @@
 
         {
             "state": "kaduna",
+            "logo": "",
             "company name": "Dk Logistic",
             "comapny number": "07063332074, 07034970740",
             "web": "www.dk.com",
